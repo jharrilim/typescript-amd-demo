@@ -7,9 +7,12 @@
     "start": "tsc && r.js dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Joseph Harrison-Lim",
   "license": "ISC",
   "dependencies": {
     "requirejs": "^2.3.6"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.5"
   }
 }
